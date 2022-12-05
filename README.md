@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliornellas
-- 👀 I’m interested in a lot of things, but for example: tech startups, programming language, such as: javascript, php and so on... and the most important thing, try to make the difference for the people in a so unequal world!!!
+- 👀 I’m interested in a lot of things, such as: tech startups, programming language, such as: javascript, php and so on... and the most important thing, try to make the difference for the people in a so unequal world!!!
 - 📫 How to reach me? My email is juliornellas@gmail.com
 
 <!---
